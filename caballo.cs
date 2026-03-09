@@ -60,7 +60,7 @@ class Program
             }
         }
 
-        Console.WriteLine("Frutos recogidos:");
+        Console.WriteLine("Los frutos recogidos son:");
 
         foreach (char f in recogidos)
         {
